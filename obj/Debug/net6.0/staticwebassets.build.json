@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sBC6YxVi0iUSLEj38ARNtzn5eczKuKmEps99UV3LpMY=",
+  "Source": "GoogleTwitterOauth",
+  "BasePath": "_content/GoogleTwitterOauth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
